@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Home
+	</title>
+	<script type="text/javascript">
+	function plots() {
+		var experience = document.getElementById("experience").value;
+		var category = document.getElementById("types").value;
+		const myReq = new XMLHttpRequest();
+		myReq.open('POST','/plot');
+		const data = new FormData();
+		data.append("experience",experience);
+		data.append("category",category);
+		myReq.send(data);
+		myReq.onload = function () {
+			const data = JSON.parse(myReq.responseText);
+			document.getElementById("getplot").srcdoc = data.page;
+		}
+	}
+	</script>
+</head>
+<body>
+	<form>
+		<label for="types">Choose a category</label>
+		<select name="types" id="types">
+			<optgroup label="Category">
+				<option value="data_science">Data Science</option>
+				<option value="frontend">Frontend</option>
+				<option value="backend">Backend</option>
+				<option value="machine_learning">Machine Learning</option>
+                <option value="data_analysis">Data Analysis</option>
+			</optgroup>
+		</select>
+		<label for="experience">Choose the experience</label>
+  		<select name="experience" id="experience">
+			<optgroup label="experience_have">
+			<option value="1">0-2 years</option>
+			<option value="2">3-5 years</option>
+			<option value="3">6-8 years</option>
+			<option value="4">9-12 years</option>
+			<option value="5">more than 12 years</option>
+			</optgroup>
+		</select>
+		<button type="button" class="btn btn-primary" onclick="plots()">visualize</button>
+	</form>
+    <iframe id="getplot" srcdoc="" width=100% height="650px"></iframe>
+</body>
+</html>

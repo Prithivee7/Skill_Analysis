@@ -1,0 +1,250 @@
+1,Backend,1,HTML,629,67,929
+2,Backend,1,CSS,532,57,929
+3,Backend,1,Git,432,46,929
+4,Backend,1,MySQL,429,46,929
+5,Backend,1,php,392,42,929
+6,Backend,1,Excel,360,38,929
+7,Backend,1,Jquery,327,35,929
+8,Backend,1,Python,326,35,929
+9,Backend,1,AWS,308,33,929
+10,Backend,1,Scala,288,31,929
+11,Backend,2,Python,810,61,1320
+12,Backend,2,Jquery,750,56,1320
+13,Backend,2,MVC,706,53,1320
+14,Backend,2,MongoDB,678,51,1320
+15,Backend,2,Design Patterns,606,45,1320
+16,Backend,2,NoSQL,564,42,1320
+17,Backend,2,Docker,556,42,1320
+18,Backend,2,Azure,534,40,1320
+19,Backend,2,Deployment,530,40,1320
+20,Backend,2,Hibernate,516,39,1320
+21,Backend,3,MVC,222,43,515
+22,Backend,3,MySQL,222,43,515
+23,Backend,3,Design Patterns,216,41,515
+24,Backend,3,Jquery,207,40,515
+25,Backend,3,Azure,195,37,515
+26,Backend,3,Deployment,192,37,515
+27,Backend,3,Docker,162,31,515
+28,Backend,3,CD,153,29,515
+29,Backend,3,Devops,147,28,515
+30,Backend,3,J2EE,138,26,515
+31,Backend,4,Javascript,48,21,226
+32,Backend,4,AWS,48,21,226
+33,Backend,4,Scala,46,20,226
+34,Backend,4,Testing,46,20,226
+35,Backend,4,Deep Learning,44,19,226
+36,Backend,4,Git,40,17,226
+37,Backend,4,Machine Learning,40,17,226
+38,Backend,4,CSS,38,16,226
+39,Backend,4,HTML,36,15,226
+40,Backend,4,Python,34,15,226
+41,Backend,5,MongoDB,8,25,31
+42,Backend,5,Machine Learning,8,25,31
+43,Backend,5,Excel,8,25,31
+44,Backend,5,Oracle,8,25,31
+45,Backend,5,Deep Learning,8,25,31
+46,Backend,5,CSS,6,19,31
+47,Backend,5,MySQL,6,19,31
+48,Backend,5,Javascript,6,19,31
+49,Backend,5,HTML,6,19,31
+50,Backend,5,php,6,19,31
+51,Data Analyst,1,Machine Learning,5667,83,6800
+52,Data Analyst,1,Excel,5451,80,6800
+53,Data Analyst,1,Statistics,5208,76,6800
+54,Data Analyst,1,Python,4044,59,6800
+55,Data Analyst,1,SQL,3831,56,6800
+56,Data Analyst,1,Java,1947,28,6800
+57,Data Analyst,1,Data Science,1869,27,6800
+58,Data Analyst,1,Scala,1623,23,6800
+59,Data Analyst,1,AWS,1344,19,6800
+60,Data Analyst,1,Tableau,1158,17,6800
+61,Data Analyst,2,Machine Learning,8322,90,9200
+62,Data Analyst,2,Statistics,7356,79,9200
+63,Data Analyst,2,SQL,6768,73,9200
+64,Data Analyst,2,Excel,6390,69,9200
+65,Data Analyst,2,Python,5829,63,9200
+66,Data Analyst,2,Cloud,4443,48,9200
+67,Data Analyst,2,Deep Learning,4341,47,9200
+68,Data Analyst,2,Scala,3330,36,9200
+69,Data Analyst,2,Spark,2397,26,9200
+70,Data Analyst,2,ETL,1887,20,9200
+71,Data Analyst,3,Machine Learning,2774,95,2900
+72,Data Analyst,3,SQL,2256,77,2900
+73,Data Analyst,3,Excel,2130,73,2900
+74,Data Analyst,3,Model Building,2057,70,2900
+75,Data Analyst,3,Python,1943,67,2900
+76,Data Analyst,3,Statistics,1791,61,2900
+77,Data Analyst,3,Deep Learning,1447,49,2900
+78,Data Analyst,3,Scala,1110,38,2900
+79,Data Analyst,3,Business Intelligence,887,30,2900
+80,Data Analyst,3,AWS,841,28,2900
+81,Data Analyst,4,SAS,84,24,348
+82,Data Analyst,4,NoSQL,71,20,348
+83,Data Analyst,4,Nifi,68,19,348
+84,Data Analyst,4,Artificial Intellgence,62,17,348
+85,Data Analyst,4,Oracle,61,17,348
+86,Data Analyst,4,Devops,59,16,348
+87,Data Analyst,4,Tableau,58,16,348
+88,Data Analyst,4,Hive,53,15,348
+89,Data Analyst,4,SAP,52,14,348
+90,Data Analyst,4,Pipelines,51,14,348
+91,Data Analyst,5,CD,174,50,332
+92,Data Analyst,5,NoSQL,168,48,332
+93,Data Analyst,5,GCP,168,48,332
+94,Data Analyst,5,Oracle,162,46,332
+95,Data Analyst,5,Nifi,162,46,332
+96,Data Analyst,5,Kafka,162,46,332
+97,Data Analyst,5,IOT,156,44,332
+98,Data Analyst,5,SAS,156,44,332
+99,Data Analyst,5,Mathematics,144,41,332
+100,Data Analyst,5,SAP,144,41,332
+101,Data Science,1,Machine Learning,3964,92,4300
+102,Data Science,1,Excel,2398,55,4300
+103,Data Science,1,Analytics,1874,43,4300
+104,Data Science,1,Python,1774,41,4300
+105,Data Science,1,Statistics,1712,39,4300
+106,Data Science,1,SQL,1590,36,4300
+107,Data Science,1,Deep Learning,1238,28,4300
+108,Data Science,1,Data Science,1050,24,4300
+109,Data Science,1,Testing,844,19,4300
+110,Data Science,1,Git,728,16,4300
+111,Data Science,2,SQL,5692,63,8956
+112,Data Science,2,Model Building,5296,59,8956
+113,Data Science,2,Analytics,5292,59,8956
+114,Data Science,2,Python,5288,59,8956
+115,Data Science,2,Excel,4668,52,8956
+116,Data Science,2,Statistics,4564,50,8956
+117,Data Science,2,Machine Learning,4284,47,8956
+118,Data Science,2,Data Science,3360,37,8956
+119,Data Science,2,Deep Learning,3068,34,8956
+120,Data Science,2,Scala,2644,29,8956
+121,Data Science,3,Scala,1120,33,3368
+122,Data Science,3,Spark,1020,30,3368
+123,Data Science,3,API,915,27,3368
+124,Data Science,3,Java,905,26,3368
+125,Data Science,3,Testing,895,26,3368
+126,Data Science,3,Vision,810,24,3368
+127,Data Science,3,AWS,805,23,3368
+128,Data Science,3,Git,720,21,3368
+129,Data Science,3,Mathematics,705,20,3368
+130,Data Science,3,Business Intelligence,690,20,3368
+131,Data Science,4,Deep Learning,267,23,1158
+132,Data Science,4,Business Intelligence,216,18,1158
+133,Data Science,4,API,210,18,1158
+134,Data Science,4,Vision,207,17,1158
+135,Data Science,4,AWS,186,16,1158
+136,Data Science,4,Java,180,15,1158
+137,Data Science,4,Testing,171,14,1158
+138,Data Science,4,Mathematics,168,14,1158
+139,Data Science,4,Azure,156,13,1158
+140,Data Science,4,Deployment,153,13,1158
+141,Data Science,5,Mathematics,52,56,92
+142,Data Science,5,Hadoop,52,56,92
+143,Data Science,5,Azure,52,56,92
+144,Data Science,5,ETL,46,50,92
+145,Data Science,5,Artificial Intellgence,44,47,92
+146,Data Science,5,NoSQL,34,36,92
+147,Data Science,5,SAS,30,32,92
+148,Data Science,5,Tableau,28,30,92
+149,Data Science,5,Power BI,26,28,92
+150,Data Science,5,Kafka,26,28,92
+151,Front end,1,Java,3230,77,4156
+152,Front end,1,Javascript,3076,74,4156
+153,Front end,1,Machine Learning,3002,72,4156
+154,Front end,1,React,3000,72,4156
+155,Front end,1,CSS,2912,70,4156
+156,Front end,1,HTML,2874,69,4156
+157,Front end,1,JQuery,1580,38,4156
+158,Front end,1,API,1404,33,4156
+159,Front end,1,Git,1278,30,4156
+160,Front end,1,S3,1222,29,4156
+161,Front end,2,Javascript,8596,81,10563
+162,Front end,2,HTML,8552,80,10563
+163,Front end,2,CSS,8492,80,10563
+164,Front end,2,React,8076,76,10563
+165,Front end,2,Angular,7064,66,10563
+166,Front end,2,php,6768,64,10563
+167,Front end,2,JQuery,6580,62,10563
+168,Front end,2,Json,6108,57,10563
+169,Front end,2,Jenkins,5936,56,10563
+170,Front end,2,Devops,5872,55,10563
+171,Front end,3,Javascript,1548,71,2162
+172,Front end,3,HTML,1548,71,2162
+173,Front end,3,CSS,1528,70,2162
+174,Front end,3,React,1488,68,2162
+175,Front end,3,Angular,1272,58,2162
+176,Front end,3,Jenkins,1220,56,2162
+177,Front end,3,Deployment,1068,49,2162
+178,Front end,3,Rest API,1028,47,2162
+179,Front end,3,Terraform,992,45,2162
+180,Front end,3,AWS,992,45,2162
+181,Front end,4,Javascript,162,28,560
+182,Front end,4,Spring,162,28,560
+183,Front end,4,Jenkins,162,28,560
+184,Front end,4,React,156,27,560
+185,Front end,4,Angular,135,24,560
+186,Front end,4,SQL,132,23,560
+187,Front end,4,Microservices,105,18,560
+188,Front end,4,Rest API,96,17,560
+189,Front end,4,Azure,93,16,560
+190,Front end,4,AWS,84,15,560
+191,Front end,5,SQL,24,66,36
+192,Front end,5,Angular,20,55,36
+193,Front end,5,Design Patterns,16,44,36
+194,Front end,5,ETL,16,44,36
+195,Front end,5,S3,16,44,36
+196,Front end,5,Pipelines,16,44,36
+197,Front end,5,SAS,16,44,36
+198,Front end,5,Devops,16,44,36
+199,Front end,5,React,16,44,36
+200,Front end,5,Tally,12,33,36
+201,Machine Learning,1,Machine Learning,2522,77,3240
+202,Machine Learning,1,Excel,1998,61,3240
+203,Machine Learning,1,Analytics,1370,42,3240
+204,Machine Learning,1,Python,1296,40,3240
+205,Machine Learning,1,Statistics,1242,38,3240
+206,Machine Learning,1,SQL,1204,37,3240
+207,Machine Learning,1,Deep Learning,1190,36,3240
+208,Machine Learning,1,Data Science,1040,32,3240
+209,Machine Learning,1,Testing,964,29,3240
+210,Machine Learning,1,Git,886,27,3240
+211,Machine Learning,2,Model Building,7468,93,8005
+212,Machine Learning,2,Analytics,6068,75,8005
+213,Machine Learning,2,Python,4852,60,8005
+214,Machine Learning,2,Excel,4572,57,8005
+215,Machine Learning,2,SQL,4328,54,8005
+216,Machine Learning,2,Statistics,4328,54,8005
+217,Machine Learning,2,Machine Learning,4064,50,8005
+218,Machine Learning,2,AWS,3484,43,8005
+219,Machine Learning,2,Deep Learning,3052,38,8005
+220,Machine Learning,2,Scala,2896,36,8005
+221,Machine Learning,3,Model Building,1620,48,3368
+222,Machine Learning,3,AWS,1604,47,3368
+223,Machine Learning,3,Python,1562,46,3368
+224,Machine Learning,3,Deep Learning,1434,42,3368
+225,Machine Learning,3,SQL,1358,40,3368
+226,Machine Learning,3,Classification,1292,38,3368
+227,Machine Learning,3,Spark,992,29,3368
+228,Machine Learning,3,Hive,884,26,3368
+229,Machine Learning,3,Azure,846,25,3368
+230,Machine Learning,3,Scala,752,22,3368
+231,Machine Learning,4,Model Building,656,56,1158
+232,Machine Learning,4,Pipelines,648,55,1158
+233,Machine Learning,4,Python,636,54,1158
+234,Machine Learning,4,Devops,584,50,1158
+235,Machine Learning,4,Machine Learning,528,45,1158
+236,Machine Learning,4,Hive,526,45,1158
+237,Machine Learning,4,Spark,382,32,1158
+238,Machine Learning,4,Pig,356,30,1158
+239,Machine Learning,4,Azure,290,25,1158
+240,Machine Learning,4,Tensorflow,286,24,1158
+241,Machine Learning,5,Model Building,163,67,242
+242,Machine Learning,5,Pipelines,162,66,242
+243,Machine Learning,5,Python,162,66,242
+244,Machine Learning,5,Devops,147,60,242
+245,Machine Learning,5,AWS,136,56,242
+246,Machine Learning,5,ETL,130,53,242
+247,Machine Learning,5,Spark,80,33,242
+248,Machine Learning,5,SAS,80,33,242
+249,Machine Learning,5,Azure,68,28,242
+250,Machine Learning,5,Tensorflow,68,28,242
