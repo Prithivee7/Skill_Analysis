@@ -64,8 +64,8 @@ def data_science_func(experience):
     else:
         t = 'more than 12 years '
 
-    txt = "Top 10 skills for data science for experience of " + \
-        t+"\n"+"Extracted from "+str(val)+" Job Requirements"
+    txt = "Top 10 skills for data scientist having experience of " + \
+        t+"\n"+". Extracted from "+str(val)+" Job Requirements"
     fig3.update_layout(
         title={
             'text': txt,
@@ -125,8 +125,8 @@ def frontend_func(experience):
     else:
         t = 'more than 12 years '
 
-    txt = "Top 10 skills for frontend for experience of " + \
-        t+"\n"+"Extracted from "+str(val)+" Job Requirements"
+    txt = "Top 10 skills for frontend developer having experience of " + \
+        t+"\n"+". Extracted from "+str(val)+" Job Requirements"
     fig3.update_layout(
         title={
             'text': txt,
@@ -186,8 +186,8 @@ def backend_func(experience):
     else:
         t = 'more than 12 years '
 
-    txt = "Top 10 skills for backend for experience of " + \
-        t+"\n"+"Extracted from "+str(val)+" Job Requirements"
+    txt = "Top 10 skills for backend developer having experience of " + \
+        t+"\n"+". Extracted from "+str(val)+" Job Requirements"
     fig3.update_layout(
         title={
             'text': txt,
@@ -247,8 +247,8 @@ def machine_learning_func(experience):
     else:
         t = 'more than 12 years '
 
-    txt = "Top 10 skills for machine learning for experience of " + \
-        t+"\n"+"Extracted from "+str(val)+" Job Requirements"
+    txt = "Top 10 skills for machine learning engineer having experience of " + \
+        t+"\n"+". Extracted from "+str(val)+" Job Requirements"
     fig3.update_layout(
         title={
             'text': txt,
@@ -308,8 +308,8 @@ def data_analysis_func(experience):
     else:
         t = 'more than 12 years '
 
-    txt = "Top 10 skills for data analysis for experience of " + \
-        t+"\n"+"Extracted from "+str(val)+" Job Requirements"
+    txt = "Top 10 skills for data analyst having experience of " + \
+        t+"\n"+". Extracted from "+str(val)+" Job Requirements"
     fig3.update_layout(
         title={
             'text': txt,
